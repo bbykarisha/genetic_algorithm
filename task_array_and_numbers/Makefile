@@ -1,7 +1,7 @@
 all: compile clean test
 compile:
 	fpc array_and_numbers.pas	
-clean:  
+clean:
 	rm -f output_1.txt
 	rm -f output_2.txt
 	rm -f output_3.txt
