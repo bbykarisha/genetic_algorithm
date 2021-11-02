@@ -1,0 +1,33 @@
+Тест № 1
+(2, 15) 30 - (3, 12) 47: AUGAUGCUUAUCAUAUAG
+
+Тест № 2
+(1, 1) 1 - (4, 1) 9: AUGGCUUAA
+
+Тест № 3
+(1, 16) 12 - (2, 18) 35: AUGGUAAUUCCUCGAAACGCGUAA
+(3, 1) 45 - (3, 28) 68: AUGGUAAUUCCUAGGAACGCGUAA
+
+Тест № 4
+The protein sequence contains invalid characters!
+
+Тест № 5
+The rnk sequence contains invalid characters!
+
+Тест № 6
+The rnk sequence has insufficient quantity of letters!
+
+Тест № 7
+The rnk sequence does not contain protein sequence!
+
+Тест № 8
+(1, 12) 10 - (2, 7) 27: AUGUUUCCUUGUCAAUAA
+
+Тест № 9
+The protein sequence must contain at least one letter!
+
+Тест № 10
+(1, 9) 7 - (1, 25) 21: AUGCGCAACGCUUGA
+(2, 11) 33 - (2, 28) 47: AUGAGGAAUGCCUAA
+(3, 12) 61 - (3, 28) 75: AUGCGCAACGCCUAG
+
