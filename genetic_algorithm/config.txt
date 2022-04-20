@@ -1,0 +1,9 @@
+population_volume = 50
+preserved_high_positions = 5
+preserved_low_positions = 2
+crossing_volume = 0.2
+variability = 0.1
+max_iters = 20
+quality_epsilon = 0.00001
+max_valueless_iters = 10
+enough_function_value = 3.52
